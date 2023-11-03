@@ -1,0 +1,3 @@
+//interaface inheritance
+
+interaface
