@@ -1,0 +1,6 @@
+Employee ID,First Name,Last Name,Email,Phone Number,Department
+101,John,Smith,john.smith@example.com,555-123-4567,HR
+102,Alice,Johnson,alice.johnson@example.com,555-234-5678,Finance
+103,Michael,Doe,michael.doe@example.com,555-345-6789,IT
+104,Emily,Williams,emily.williams@example.com,555-456-7890,Marketing
+105,David,Anderson,david.anderson@example.com,555-567-8901,Engineering
